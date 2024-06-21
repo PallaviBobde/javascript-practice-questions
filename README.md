@@ -3,45 +3,38 @@
 ![JavaScript Question Series Logo](path/to/logo.png)
 
 It has solution to 2 simple js questions - 
-Ques1 Print the given output for the given input - 
-Input = [
-   { key: "Sample1", data: "Data1" },
-   { key: "Sample2", data: "Data2" },
-   { key: "Sample1", data: "Data1" },
-   { key: "Sample3", data: "Data3" },
-   { key: "Sample1", data: "Data1" },
-]
-Output - {
-   Sample1: [
-     { key: 'Sample1', data: 'Data1' },
-     { key: 'Sample1', data: 'Data1' },
-     { key: 'Sample1', data: 'Data1' },
-     { key: 'Sample1', data: 'Data1' }
-   ],
-   Sample2: [ { key: 'Sample2', data: 'Data2' } ],
-   Sample3: [ { key: 'Sample3', data: 'Data3' } ]
-}
 
-Ques2 print series - 
-*
-**
-***
-****
-*****
-*****
-****
-***
-**
-*
+# Ques1 Print the given output for the given input - 
+---
+Input =
+- [
+-  { key: "Sample1", data: "Data1" },
+-   { key: "Sample2", data: "Data2" },
+-   { key: "Sample1", data: "Data1" },
+-   { key: "Sample3", data: "Data3" },
+-   { key: "Sample1", data: "Data1" },
+- ]
+---
+- Output -
+- {
+-   Sample1:[
+- { key: 'Sample1', data: 'Data1' },
+- { key: 'Sample1', data: 'Data1' },
+- { key: 'Sample1', data: 'Data1' },
+- { key: 'Sample1', data: 'Data1' }],
+- Sample2: [ { key: 'Sample2', data: 'Data2' } ],
+- Sample3: [ { key: 'Sample3', data: 'Data3' } ]
+- }
+---
+# Ques2 print * series - 
 
 ## 🛠️ Technologies Used
 
-- **JavaScript (ES6+)**: For dynamic content and interactivity.
+- **JavaScript (ES6+)**: For solving questions
 
 ## 📞 URLs
 
-- **Repo**: [https://github.com/PallaviBobde/jsquestions](https://github.com/PallaviBobde/jsquestions)
-- **View**: [https://pallavibobde.github.io/jsquestions/](https://pallavibobde.github.io/jsquestions/)
+- **Repo**: [https://github.com/PallaviBobde/jsquestions](https://github.com/PallaviBobde/javascript-practice-questions)
 
 ## 📞 Let's get in touch
 
